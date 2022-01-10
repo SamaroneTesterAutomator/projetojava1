@@ -3,11 +3,10 @@ package curso.java.aulagit;
 public class Pessoa {
 
 	private String nome;
-	
+
 	private String sobreNome;
-	
+
 	private int idade;
-	
 
 	public int getIdade() {
 		return idade;
@@ -32,6 +31,5 @@ public class Pessoa {
 	public void setSobreNome(String sobreNome) {
 		this.sobreNome = sobreNome;
 	}
-	
-	
+
 }
