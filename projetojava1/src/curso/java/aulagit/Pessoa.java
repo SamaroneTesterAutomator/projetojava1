@@ -10,16 +10,16 @@ public class Pessoa {
 
 	private int idade;
 	
-//	private Date dataNascimento;
-//	
-//
-//	public Date getDataNascimento() {
-//		return dataNascimento;
-//	}
-//
-//	public void setDataNascimento(Date dataNascimento) {
-//		this.dataNascimento = dataNascimento;
-//	}
+	private Date dataNascimento;
+	
+
+	public Date getDataNascimento() {
+		return dataNascimento;
+	}
+
+	public void setDataNascimento(Date dataNascimento) {
+		this.dataNascimento = dataNascimento;
+	}
 
 	public int getIdade() {
 		return idade;
