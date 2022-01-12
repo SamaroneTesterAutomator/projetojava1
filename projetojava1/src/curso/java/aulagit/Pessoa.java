@@ -14,6 +14,8 @@ public class Pessoa {
 	
 	private Date dataCadastro;
 	
+	private String email;
+	
 
 	public Date getDataNascimento() {
 		return dataNascimento;
